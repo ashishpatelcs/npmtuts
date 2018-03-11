@@ -1,14 +1,23 @@
 {
-  "name": "@ashishpatel/npm-file",
-  "version": "1.0.0",
+  "name": "fcc-package",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
+  "author": "Ashish Patel",
   "license": "ISC",
-  "description": "",
+  "description": "Free Code Camp Manage Packages with NPM",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishpatelcs/npmtuts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ashishpatelcs/npmtuts/issues"
+  },
+  "homepage": "https://github.com/ashishpatelcs/npmtuts#readme"
 }
